@@ -10,7 +10,7 @@ module.exports = {
   assetsDir: 'static',
   productionSourceMap: false,
   devServer: {
-    port: 8080,
+    port: 8090,
     open: true,
   },
   configureWebpack: {
